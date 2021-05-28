@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BrainTreePaymentGateWay</string>
+    <string name="braintree_client_token">sandbox_kt6spmd5_h5scwh7tt8fycbsj</string>
+    <string name="donation_cancel">Payment Cancel</string>
+</resources>
